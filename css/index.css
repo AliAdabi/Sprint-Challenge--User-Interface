@@ -82,7 +82,8 @@ p {
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
-    padding-bottom: 20px;  
+    padding-bottom: 20px;
+    padding-top: 20px;  
 }
 
 .middle-content {
@@ -143,4 +144,48 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+.inHeader{
+    width: 59%;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+}
+.HeaderNav{
+    width: 80%;
+    padding-top: 20px;
+    display: flex;
+    color: gray;
+    justify-content: space-evenly;
+    
+}
+#b1{
+    background-color: teal;
+}
+#b2{
+    background-color: gold;
+}
+#b3{
+    background-color: cadetblue;
+}
+#b4{
+    background-color: coral;
+}
+#b5{
+    background-color: crimson;
+}
+#b6{
+    background-color: forestgreen;
+}
+#b7{
+    background-color: darkorchid;
+}
+#b8{
+    background-color: hotpink;
+}
+#b9{
+    background-color: indigo;
+}
+#b10{
+    background-color: dodgerblue;
 }
