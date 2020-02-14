@@ -82,7 +82,8 @@ p {
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
-    padding-bottom: 20px;  
+    padding-bottom: 20px;
+    padding-top: 20px;  
 }
 
 .middle-content {
@@ -144,3 +145,103 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+.inHeader{
+    width: 59%;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+}
+.HeaderNav{
+    width: 80%;
+    padding-top: 20px;
+    display: flex;
+    color: gray;
+    justify-content: space-evenly;
+    
+}
+#b1{
+    background-color: teal;
+}
+#b2{
+    background-color: gold;
+}
+#b3{
+    background-color: cadetblue;
+}
+#b4{
+    background-color: coral;
+}
+#b5{
+    background-color: crimson;
+}
+#b6{
+    background-color: forestgreen;
+}
+#b7{
+    background-color: darkorchid;
+}
+#b8{
+    background-color: hotpink;
+}
+#b9{
+    background-color: indigo;
+}
+#b10{
+    background-color: dodgerblue;
+}
+/* ABout page styling starts here */
+.aboutHeader{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.aboutNav{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    color: gray;
+}
+.midimage{
+    width: 70%;
+    padding-top: 50px;
+    margin: 0 auto;
+}
+.topsec{
+    border-top: 1px dotted gray ;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    width: 100%;
+
+    
+    
+}
+.topsec div{
+    width: 40%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    border-bottom: 1px dotted black;
+}
+.topsec a{
+    width: 12.5%;
+    margin-bottom: 5px;
+    border: 1px dotted black;
+    background:white;
+    margin: 20px 2.5%;
+    color: black;
+}
+.bottom{
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+.aboutsec{
+    padding-top: 15px;
+    
+}
+
+
+
