@@ -189,3 +189,22 @@ footer nav a {
 #b10{
     background-color: dodgerblue;
 }
+/* ABout page styling starts here */
+.aboutHeader{
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.aboutNav{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    color: gray;
+}
+.midimage{
+    width: 70%;
+    padding-top: 50px;
+    margin: 0 auto;
+}
