@@ -222,10 +222,13 @@ footer nav a {
 }
 .topsec div{
     width: 40%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    border-bottom: 1px dotted black;
 }
 .topsec a{
     width: 12.5%;
-    height: 100px;
+    margin-bottom: 5px;
     border: 1px dotted black;
     background:white;
     margin: 20px 2.5%;
