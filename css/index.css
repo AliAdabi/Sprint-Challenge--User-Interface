@@ -207,6 +207,10 @@ footer nav a {
     width: 70%;
     padding-top: 50px;
     margin: 0 auto;
+    
+}
+.midimage img{
+    margin-left: 270px;
 }
 .topsec{
     border-top: 1px dotted gray ;
@@ -226,6 +230,9 @@ footer nav a {
     padding-bottom: 50px;
     border-bottom: 1px dotted black;
 }
+.topsec div button{
+    margin-top: 30px;
+}
 .topsec a{
     width: 12.5%;
     margin-bottom: 5px;
@@ -243,5 +250,14 @@ footer nav a {
     
 }
 
+.conTop{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.conTop div{
+    width: 40%;
+}
 
 
