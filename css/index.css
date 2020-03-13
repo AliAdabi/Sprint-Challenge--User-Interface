@@ -250,6 +250,14 @@ footer nav a {
     
 }
 
-.blog
+.conTop{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.conTop div{
+    width: 40%;
+}
 
 
